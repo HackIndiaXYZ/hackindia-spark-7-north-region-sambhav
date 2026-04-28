@@ -149,8 +149,7 @@ Stop searching. Start building.
 15. [API Integration Details](#api-integration-details)
 16. [Demo Script](#demo-script)
 17. [Deployment Guide](#deployment-guide)
-18. [Future Monetization Path](#future-monetization-path)
-19. [License](#license)
+18. [License](#license)
 
 ---
 
@@ -650,14 +649,6 @@ flowchart TD
 2.  **Chrome**: Go to `chrome://extensions/`
 3.  **Dev Mode**: Turn on "Developer mode".
 4.  **Load**: Click "Load unpacked" and pick the `dist` folder.
-
----
-
-## Future Path
-
-### Growing Resurface
-
-We plan to add a safe server for team sharing and easy subscription billing once the tool is ready for more users. For now, it stays 100% on your device for total privacy.
 
 ---
 
