@@ -67,26 +67,57 @@ Stop searching. Start building.
 
 ### System Flow in Action
 
-![Helpful Suggestions](public/prototype-ss/Screenshot%202026-04-28%20at%209.53.42 PM.png)
-*1. Helpful Suggestions: While you browse, Resurface shows you things you've already saved that are related to the current page in a clean sidebar.*
+<h4 align="center">Sidebar Screenshot</h4>
+<p align="center">
+  <img src="public/prototype-ss/Screenshot%202026-04-28%20at%209.53.42 PM.png" width = "720"/>
+</p>
 
-![Main Dashboard](public/prototype-ss/Screenshot%202026-04-28%20at%209.46.37 PM.png)
-*2. Main Dashboard: A clean and simple overview of everything you've saved recently and the projects you're working on.*
+> 1. Helpful Suggestions: While you browse, Resurface shows you things you've already saved that are related to the current page in a clean sidebar.
 
-![Your Collection](public/prototype-ss/Screenshot%202026-04-28%20at%209.48.26 PM.png)
-*3. Your Collection: See all your saved items, each with a clear AI summary and smart labels to help you find them easily.*
+<h4 align="center">Main Dashboard</h4>
+<p align="center">
+  <img src="public/prototype-ss/Screenshot%202026-04-28%20at%209.46.37 PM.png" width = "720"/>
+</p>
 
-![Project Spaces](public/prototype-ss/Screenshot%202026-04-28%20at%209.47.03 PM.png)
-*4. Projects: Organize your work into different projects to keep your research and learning in order.*
+> 2. Main Dashboard: A clean and simple overview of everything you've saved recently and the projects you're working on.
 
-![Creating Projects](public/prototype-ss/Screenshot%202026-04-28%20at%209.47.15 PM.png)
-*5. Creating Projects: Easily set up new projects with AI-suggested words to keep your research organized.*
+<h4 align="center">Library | Your Collection</h4>
+<p align="center">
+  <img src="public/prototype-ss/Screenshot%202026-04-28%20at%209.48.26 PM.png" width = "720"/>
+</p>
 
-![Ask Your Data](public/prototype-ss/Screenshot%202026-04-28%20at%209.49.58 PM.png)
-*6. Ask Your Data: Ask questions about what you've saved and get instant answers based only on your own collection.*
+> 3. Your Collection: See all your saved items, each with a clear AI summary and smart labels to help you find them easily.
 
-![Settings](public/prototype-ss/Screenshot%202026-04-28%20at%209.48.03 PM.png)
-*7. Settings: Easily manage your AI keys and customize how the extension works for you.*
+<h4 align="center">Project Space</h4>
+<p align="center">
+  <img src="public/prototype-ss/Screenshot%202026-04-28%20at%209.47.03 PM.png" width = "720"/>
+</p>
+
+> 4. Projects: Organize your work into different projects to keep your research and learning in order.
+
+<h4 align="center">Creating Project</h4>
+
+<p align="center">
+  <img src="public/prototype-ss/Screenshot%202026-04-28%20at%209.47.15 PM.png" width = "480"/>
+</p>
+
+> 5. Creating Projects: Easily set up new projects with AI-suggested words to keep your research organized.
+
+<h4 align="center">Ask Your Data | Your Second Brain Chatbot</h4>
+
+<p align="center">
+  <img src="public/prototype-ss/Screenshot%202026-04-28%20at%209.49.58 PM.png" width = "450"/>
+</p>
+
+> 6. Ask Your Data: Ask questions about what you've saved and get instant answers based only on your own collection.*
+
+<h4 align="center">Settings</h4>
+
+<p align="center">
+  <img src="public/prototype-ss/Screenshot%202026-04-28%20at%209.48.03 PM.png" width = "720"/>
+</p>
+
+> 7. Settings: Easily manage your AI API keys and customize how the extension works for you.
 
 ---
 
